@@ -1,13 +1,13 @@
 # Site settings
 title: sunshine Blog
-SEOTitle: sunshine的博客 | sunshine Blog
+SEOTitle: 友群的博客 | sunshine Blog
 header-img: img/post-bg-desk.jpg
 email: wangyouqun2020@gmail.com
 description: "Every failure is leading towards success."
-keyword: "sunshine, sunshine Blog, sunshine的博客, chenshenglong, 陈生龙, hadoop, spark, flink"
-url: "http://feature2018.github.io"          # your host, for absolute URL
+keyword: "sunshine, sunshine Blog, sunshine的博客, wangyouqun, 王友群, 数据分析师"
+url: "http://wangsunshine666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/feature2018/feature2018.github.io.git" # you code repository
+github_repo: "https://github.com/wangsunshine666/wangsunshine666.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -78,7 +78,7 @@ ba_track_id: 362f51f27ad72f41be52e425298a6651
 
 # Google Analytics
 ga_track_id: 'UA-51365620-2'            # Format: UA-xxxxxx-xx
-ga_domain: chensunshine.cn              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: wangsunshine.cn              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 

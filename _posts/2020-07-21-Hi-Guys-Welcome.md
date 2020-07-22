@@ -3,7 +3,7 @@ layout:     post
 title:      hi,guys
 subtitle:   自我介绍
 date:       2018-07-21
-author:     kein
+author:     Angela
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
@@ -13,7 +13,7 @@ tags:
 
 - hi guys
     
-    欢迎来到 chen sunshine博客
+    欢迎来到 Angela sunshine博客
 
 - 现在写作平台这么多，为什么还需要自己建博客
     - 很多博客网站说关就关
