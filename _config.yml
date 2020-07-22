@@ -2,7 +2,7 @@
 title: sunshine Blog
 SEOTitle: sunshine的博客 | sunshine Blog
 header-img: img/post-bg-desk.jpg
-email: chshlo6@gmail.com
+email: wangyouqun2020@gmail.com
 description: "Every failure is leading towards success."
 keyword: "sunshine, sunshine Blog, sunshine的博客, chenshenglong, 陈生龙, hadoop, spark, flink"
 url: "http://feature2018.github.io"          # your host, for absolute URL
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
-github_username:    feature2018
+github_username:    wangsunshine666
 facebook_username:  shenglong.chen.73
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: feature2018.github.io    #仓库名称
+  repo: wangsunshine666.github.io    #仓库名称
   owner: chshlo6@gmail.com    #github用户名
   admin: chshlo6@gmail.com
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
